@@ -2,6 +2,7 @@
 - 👀 I’m interested in Computer Vision and IoT
 - 🌱 I’m currently learning Python OpenCV
 - 📫 You can reach me hithesh.ec20@sahyadri.edu.in
+- LinkedIn www.linkedin.com/in/hithesh-j
 
 <!---
 Hitheshgit/Hitheshgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
